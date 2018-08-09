@@ -11,16 +11,16 @@ Rails version : 5.2.0
 <h2>Utilisation en local</h2>
 
 
-<p>git clone https://github.com/jjeleven11/Cryptocurrencies.git
+> <p>git clone https://github.com/jjeleven11/Cryptocurrencies.git
 
-$ cd Cryptocurrencies
+> cd Cryptocurrencies
 
-$ bundle install 
+> bundle install 
 
-$ rails db:create
+> rails db:create
 
 
-$ rails server
+> rails server
 
 Go sur http://localhost:3000/
 
