@@ -1,5 +1,5 @@
 
-<h1>Cryptocurrencies</h1>
+<h1>Cryptocurrencies</h1> Le lien heroku : https://polar-inlet-33486.herokuapp.com/
 
 
 <h2>Version de Ruby :</h2>
@@ -22,6 +22,5 @@ Rails version : 5.2.0
 
 > rails server  
 
-et Go sur http://localhost:3000/
+Go sur http://localhost:3000/
 
-Le lien heroku : https://polar-inlet-33486.herokuapp.com/
