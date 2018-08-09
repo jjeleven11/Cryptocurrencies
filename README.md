@@ -20,6 +20,8 @@ Rails version : 5.2.0
 > rails db:create
 
 
-> rails server  et Go sur http://localhost:3000/
+> rails server  
+
+et Go sur http://localhost:3000/
 
 Le lien heroku : https://polar-inlet-33486.herokuapp.com/
