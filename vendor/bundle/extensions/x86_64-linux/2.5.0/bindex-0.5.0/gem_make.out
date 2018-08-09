@@ -1,0 +1,15 @@
+current directory: /home/jeremie/Informatique/ruby/THP/rails/scrapp_oklm/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/usr/bin/ruby2.5 -r ./siteconf20180809-4483-1ad0530.rb extconf.rb
+creating Makefile
+
+current directory: /home/jeremie/Informatique/ruby/THP/rails/scrapp_oklm/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/jeremie/Informatique/ruby/THP/rails/scrapp_oklm/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/jeremie/Informatique/ruby/THP/rails/scrapp_oklm/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20180809-4483-odsv1i/bindex
