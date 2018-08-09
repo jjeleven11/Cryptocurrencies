@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body background="https://cryptominingtrades.com/wp-content/uploads/2018/01/moon.png">
+<center>
+  <body
+
+  <p><font size="5">THE CRYPTOCURRCENCY SEARCHER</font></p>
+    <p><font size="4">HODL TO THE MOON</font></p>
+    <form action="getdata">
+
+  <select name="crypto_form">
+    <% @crypto.each  do |key, n|  %>
+       <option value=<%=n%> ><%= key %></option>
+
+   <% end %>
+   </select>
+   <br><br>
+   <input type="submit">
+  </form>
+
+<p><font size="5">
+  Coin value in FIAT :
+  <%= @value %>
+  </font></p>
+  <body style="background-color:#8181F7;">
+
+</center>
+</body>
+</html>
