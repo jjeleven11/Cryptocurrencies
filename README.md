@@ -10,7 +10,7 @@ Rails version : 5.2.0
 
 <h2>Utilisation en local</h2>
 
-*****************************************************************
+
 <p>git clone https://github.com/jjeleven11/Cryptocurrencies.git
 
 $ cd Cryptocurrencies
